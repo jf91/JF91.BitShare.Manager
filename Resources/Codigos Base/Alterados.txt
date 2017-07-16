@@ -1,0 +1,162 @@
+﻿---> CÓDIGO HTML ORIGINAL COM JAVASCRIPT COM INSTRUCÇÕES
+
+string InsertMovieHTML = "<p><table border=\"0\"><tbody><tr><td style=\"width: 150px;\"><a data-lightbox=\"on;transitionIn:elastic;transitionOut:elastic;\" data-spotlight=\"on\" href=\"images\/imagens\/covers\/filmes\/capa-zoom\/" + (Nome da Capa ZOOM) + "\"><img src=\"images\/imagens\/covers\/filmes\/capa-blog\/" + (Nome da Capa BLOG) + "\"width=\"150\" height=\"184\" alt=\"" + (Titulo Filme) + "\/><\/a><\/td><td><p style=\"text-align: center;\"><strong><span style=\"font-family: 'courier new', courier; font-size: 12pt; color: #000080;\"><a href=\"index.php\/conteudos\/filmes\/item\/filme-" + (<filme>) + "\"><span style=\"color: #000080;\">\"" + "\"" + (Titulo Filme) + "\"" + "\"<\/span><\/a> | <a href=\"index.php\/filmes-" + (<categoria>) + "\"><span style=\"color: #000080;\">" + (Titulo Categoria) + "<\/span><\/a> | <\/span><span style=\"color: #000080;\"><span style=\"font-family: 'courier new', courier; font-size: 12pt;\"><a href=\"index.php\/filmes-" + (ano) + "\"><span style=\"color: #000080;\">" + (Ano do Filme) + "<\/span><\/a><\/span><\/span><\/strong><\/p><p style=\"margin-left: 30px;\"><span style=\"color: #808080;\"><span style=\"font-family: 'book antiqua', palatino; font-size: 10pt;\">Realizador: " + (Realizador) + "<\/span><\/span><\/p><p style=\"margin-left: 30px;\"><span style=\"color: #808080;\"><span style=\"font-family: 'book antiqua', palatino; font-size: 10pt;\">Actores Principais:" + (Actores Principais) + "<\/span><\/span><\/p><p style=\"margin-left: 30px;\">" + SCRIPT IMDB + "<\/p><p style=\"margin-left: 30px;\"><span style=\"color: #808080;\"><span style=\"font-family: 'book antiqua', palatino; font-size: 10pt;\">" + (Sinopse) + "<\/span><\/span><\/p><p style=\"text-align: center;"><span style=\"color: #808080;\"><span style=\"font-family: 'book antiqua', palatino; font-size: 10pt;\"><span style=\"color: #00ff00;\"><strong><span style=\"font-family: 'courier new', courier; font-size: 12pt;\">" + "{flowplayer autoplay=1 img=(Imagem do Play)}" + (Caminho do Filme MP4) + "{/flowplayer}" + "<\/span><\/strong><\/span><span style=\"font-size: 12pt;\">|<\/span>&nbsp;<strong><span style=\"font-family: 'courier new', courier; font-size: 12pt; color: #000080;\"><a href=\"LINK_DOWNLOAD\" title=\"TITULO\" target=\"_blank\">Download&nbsp;<\/span><\/strong><img src=\"images\/imagens\/blog\/download.png\" width=\"20\" height=\"20\" alt=\"download\" style=\"vertical-align: middle;\"\/><\/a><\/span><\/span><\/span><\/p><\/td><\/tr><\/tbody><\/table><\/p>";
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+string InsertMovieHTMLComplete = " {
+	"2616ded9-e88b-4b77-a92c-2c4c18bb995f":  {
+		"0":  {
+			"value": ""
+		}
+	},
+	"fc5a6788-ffae-41d9-a812-3530331fef64":  {
+		"item":  {
+
+		}
+	},
+	"08795744-c2dc-4a68-8252-4e21c4c4c774":  {
+		"0":  {
+			"value": ""
+		}
+	},
+	"2e3c9e69-1f9e-4647-8d13-4e88094d2790":  {
+		"0":  {
+			"value": "<p><table border=\"0\"><tbody><tr><td style=\"width: 150px;\"><a data-lightbox=\"on;transitionIn:elastic;transitionOut:elastic;\" data-spotlight=\"on\" href=\"images\/imagens\/covers\/filmes\/capa-zoom\/" + (Nome da Capa ZOOM) + "\"><img src=\"images\/imagens\/covers\/filmes\/capa-blog\/" + (Nome da Capa BLOG) + "\"width=\"150\" height=\"184\" alt=\"" + (Titulo Filme) + "\/><\/a><\/td><td><p style=\"text-align: center;\"><strong><span style=\"font-family: 'courier new', courier; font-size: 12pt; color: #000080;\"><a href=\"index.php\/conteudos\/filmes\/item\/filme-" + (<filme>) + "\"><span style=\"color: #000080;\">\"" + "\"" + (Titulo Filme) + "\"" + "\"<\/span><\/a> | <a href=\"index.php\/filmes-" + (<categoria>) + "\"><span style=\"color: #000080;\">" + (Titulo Categoria) + "<\/span><\/a> | <\/span><span style=\"color: #000080;\"><span style=\"font-family: 'courier new', courier; font-size: 12pt;\"><a href=\"index.php\/filmes-" + (ano) + "\"><span style=\"color: #000080;\">" + (Ano do Filme) + "<\/span><\/a><\/span><\/span><\/strong><\/p><p style=\"margin-left: 30px;\"><span style=\"color: #808080;\"><span style=\"font-family: 'book antiqua', palatino; font-size: 10pt;\">Realizador: " + (Realizador) + "<\/span><\/span><\/p><p style=\"margin-left: 30px;\"><span style=\"color: #808080;\"><span style=\"font-family: 'book antiqua', palatino; font-size: 10pt;\">Actores Principais:" + (Actores Principais) + "<\/span><\/span><\/p><p style=\"margin-left: 30px;\">" + SCRIPT IMDB + "<\/p><p style=\"margin-left: 30px;\"><span style=\"color: #808080;\"><span style=\"font-family: 'book antiqua', palatino; font-size: 10pt;\">" + (Sinopse) + "<\/span><\/span><\/p><p style=\"text-align: center;"><span style=\"color: #808080;\"><span style=\"font-family: 'book antiqua', palatino; font-size: 10pt;\"><span style=\"color: #00ff00;\"><strong><span style=\"font-family: 'courier new', courier; font-size: 12pt;\">" + "{flowplayer autoplay=1 img=(Imagem do Play)}" + (Caminho do Filme MP4) + "{/flowplayer}" + "<\/span><\/strong><\/span><span style=\"font-size: 12pt;\">|<\/span>&nbsp;<strong><span style=\"font-family: 'courier new', courier; font-size: 12pt; color: #000080;\"><a href=\"LINK_DOWNLOAD\" title=\"TITULO\" target=\"_blank\">Download&nbsp;<\/span><\/strong><img src=\"images\/imagens\/blog\/download.png\" width=\"20\" height=\"20\" alt=\"download\" style=\"vertical-align: middle;\"\/><\/a><\/span><\/span><\/span><\/p><\/td><\/tr><\/tbody><\/table><\/p>"
+		}
+	},
+	"cdce6654-4e01-4a7f-9ed6-0407709d904c":  {
+		"file": "",
+		"title": "",
+		"link": "",
+		"target": "0",
+		"rel": "",
+		"lightbox_image": "",
+		"spotlight_effect": "",
+		"caption": ""
+	},
+	"c26feca6-b2d4-47eb-a74d-b067aaae5b90":  {
+		"file": "",
+		"title": "",
+		"link": "",
+		"target": "0",
+		"rel": "",
+		"lightbox_image": "",
+		"spotlight_effect": "",
+		"caption": ""
+	},
+	"0bee21e2-8f88-4f5b-83af-686cd1c7ef4b":  {
+		"url": "",
+		"width": "",
+		"height": "",
+		"autoplay": "0"
+	},
+	"65b7851d-199f-4ac6-95a7-409ad1bca488":  {
+		"item":  {
+
+		}
+	},
+	"fdcbebaa-e61a-462d-963e-aff74ff95499":  {
+		"0":  {
+			"value": "",
+			"text": "",
+			"target": "0",
+			"custom_title": "",
+			"rel": ""
+		}
+	},
+	"d857d939-47e9-4303-8f37-93b0cecace54":  {
+		"value": "1"
+	}
+}";
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+string params = " {
+	"metadata.title": "",
+	"metadata.description": "",
+	"metadata.keywords": "",
+	"metadata.robots": "",
+	"metadata.author": "",
+	"config.enable_comments": "1",
+	"config.primary_category": 2
+}";
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---> QUERY SQL PARA INSERIR FILMES
+
+string InsertMovie = "INSERT INTO bs_zoo_item(application_id, type, name, alias, created, modified, modified_by, publish_up, publish_down, priority, hits, state, access, created_by, created_by_alias, searchable, elements, params) VALUES('4','"article"','" + TEXTBOX_ADICIONARFILME_TITULOPT.Text + "','" + TEXTBOX_ADICIONARFILME_ALIAS.Text + "','"2014-01-01 00:00:00"', '"2014-01-01 00:00:00"', '"928"','"2014-01-01 00:00:00"','"0000-00-00 00:00:00"', '"0"', '"0"', '"1"', '"2"', '"928"', 'NULL', '"1"', '"InsertMovieHTMLComplete"', '"params"');";
+
+
+
+
+string InsertMovieElements = @"
+
+	"2616ded9-e88b-4b77-a92c-2c4c18bb995f":  {
+		"0":  {
+			"value": ""
+		}
+	},
+	"fc5a6788-ffae-41d9-a812-3530331fef64":  {
+		"item":  {
+
+		}
+	},
+	"08795744-c2dc-4a68-8252-4e21c4c4c774":  {
+		"0":  {
+			"value": ""
+		}
+	},
+	
+	"2e3c9e69-1f9e-4647-8d13-4e88094d2790":  {
+		"0":  {
+			"value": "<p><table border=\"0\"><tbody><tr><td style=\"width: 150px;\"><a data-lightbox=\"on;transitionIn:elastic;transitionOut:elastic;\" data-spotlight=\"on\" href=\"images\/imagens\/covers\/filmes\/capa-zoom\/" + File + "\"><img src=\"images\/imagens\/covers\/filmes\/capa-blog\/" + File + "\"width=\"150\" height=\"184\" alt=\"" + TEXTBOX_ADICIONARFILME_TITULORIGINAL.Text + "\/><\/a><\/td><td><p style=\"text-align: center;\"><strong><span style=\"font-family: 'courier new', courier; font-size: 12pt; color: #000080;\"><a href=\"index.php\/conteudos\/filmes\/item\/filme-" + TEXTBOX_ADICIONARFILME_ALIAS.Text + "\"><span style=\"color: #000080;\">\"" + "\"" + TEXTBOX_ADICIONARFILME_TITULORIGINAL.Text + "\"" + "\"<\/span><\/a> | <a href=\"index.php\/filmes-" + GeneroAUX + "\"><span style=\"color: #000080;\">" + ItemGenero + "<\/span><\/a> | <\/span><span style=\"color: #000080;\"><span style=\"font-family: 'courier new', courier; font-size: 12pt;\"><a href=\"index.php\/filmes-" + TEXTBOX_ADICIONARFILME_ANO.Text + "\"><span style=\"color: #000080;\">" + TEXTBOX_ADICIONARFILME_ANO.Text + "<\/span><\/a><\/span><\/span><\/strong><\/p><p style=\"margin-left: 30px;\"><span style=\"color: #808080;\"><span style=\"font-family: 'book antiqua', palatino; font-size: 10pt;\">Realizador: " + TEXTBOX_ADICIONARFILME_REALIZADOR.Text + "<\/span><\/span><\/p><p style=\"margin-left: 30px;\"><span style=\"color: #808080;\"><span style=\"font-family: 'book antiqua', palatino; font-size: 10pt;\">Actores Principais:" + TEXTBOX_ADICIONARFILME_ACTORESPRINCIPAIS.Text + "<\/span><\/span><\/p><p style=\"margin-left: 30px;\">" + TEXTBOX_ADICIONARFILME_SCRIPTIMDB.Text + "<\/p><p style=\"margin-left: 30px;\"><span style=\"color: #808080;\"><span style=\"font-family: 'book antiqua', palatino; font-size: 10pt;\">" + TEXTBOX_ADICIONARFILME_SINOPSE.Text + "<\/span><\/span><\/p><p style=\"text-align: center;"><span style=\"color: #808080;\"><span style=\"font-family: 'book antiqua', palatino; font-size: 10pt;\"><span style=\"color: #00ff00;\"><strong><span style=\"font-family: 'courier new', courier; font-size: 12pt;\">" + "{flowplayer autoplay=1 img=(\/images\/imagens\/blog\/play.png)}\/stuff\/filmes\/" + TEXTBOX_ADICIONARFILME_FICHEIROMP4.Text + "{/flowplayer}" + "<\/span><\/strong><\/span><span style=\"font-size: 12pt;\">|<\/span>&nbsp;<strong><span style=\"font-family: 'courier new', courier; font-size: 12pt; color: #000080;\"><a href=\"\/stuff\/filmes\/" + TEXTBOX_ADICIONARFILME_LINKDOWNLOAD.Text + "\" title=\"\" download=\"" + TEXTBOX_ADICIONARFILME_LINKDOWNLOAD.Text + "\">Download&nbsp;<\/span><\/strong><img src=\"images\/imagens\/blog\/download.png\" width=\"20\" height=\"20\" alt=\"download\" style=\"vertical-align: middle;\"\/><\/a><\/span><\/span><\/span><\/p><\/td><\/tr><\/tbody><\/table><\/p>"
+		}
+	},
+	"cdce6654-4e01-4a7f-9ed6-0407709d904c":  {
+		"file": "",
+		"title": "",
+		"link": "",
+		"target": "0",
+		"rel": "",
+		"lightbox_image": "",
+		"spotlight_effect": "",
+		"caption": ""
+	},
+	"c26feca6-b2d4-47eb-a74d-b067aaae5b90":  {
+		"file": "",
+		"title": "",
+		"link": "",
+		"target": "0",
+		"rel": "",
+		"lightbox_image": "",
+		"spotlight_effect": "",
+		"caption": ""
+	},
+	"0bee21e2-8f88-4f5b-83af-686cd1c7ef4b":  {
+		"url": "",
+		"width": "",
+		"height": "",
+		"autoplay": "0"
+	},
+	"65b7851d-199f-4ac6-95a7-409ad1bca488":  {
+		"item":  {
+
+		}
+	},
+	"fdcbebaa-e61a-462d-963e-aff74ff95499":  {
+		"0":  {
+			"value": "",
+			"text": "",
+			"target": "0",
+			"custom_title": "",
+			"rel": ""
+		}
+	},
+	"d857d939-47e9-4303-8f37-93b0cecace54":  {
+		"value": "1"
+	}
+}";
+	
+	";

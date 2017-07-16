@@ -1,0 +1,75 @@
+﻿---> CÓDIGO HTML ORIGINAL SEM ESPAÇAMENTOS
+
+<p><table border="0"><tbody><tr><td style="width: 150px;"><a data-lightbox="on;transitionIn:elastic;transitionOut:elastic;" data-spotlight="on" href="images/imagens/covers/filmes/capa-zoom/6-bullets.jpg"><img src="images/imagens/covers/filmes/capa-blog/6-bullets.jpg" width="150" height="184" alt="6 Bullets" /></a></td><td><p style="text-align: center;"><strong><span style="font-family: 'courier new', courier; font-size: 12pt; color: #000080;"><a href="index.php/filmes-6-bullets"><span style="color: #000080;">"6 Bullets"</span></a> | <a href="index.php/filmes-accao"><span style="color: #000080;">Acção</span></a> | </span><span style="color: #000080;"><span style="font-family: 'courier new', courier; font-size: 12pt;"><a href="index.php/filmes-2012"><span style="color: #000080;">2012</span></a></span></span></strong></p><p style="margin-left: 30px;"><span style="color: #808080;"><span style="font-family: 'book antiqua', palatino; font-size: 10pt;">Realizador: Ernie Barbarash</span></span></p><p style="margin-left: 30px;"><span style="color: #808080;"><span style="font-family: 'book antiqua', palatino; font-size: 10pt;">Actores Principais: Jean-Claude Van Damme, Joe Flanigan, Anna-Louise Plowman</span></span></p><p style="margin-left: 30px;"><span class="imdbRatingPlugin" data-user="ur36838024" data-title="tt1975249" data-style="t1"><a href="http://www.imdb.com/title/tt1975249/?ref_=plg_rt_1"><img src="http://g-ecx.images-amazon.com/images/G/01/imdb/plugins/rating/images/imdb_46x22.png" alt="6 Bullets (2012) on IMDb" /></a></span><script>(function(d,s,id){var js,stags=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return;}js=d.createElement(s);js.id=id;js.src="http://g-ec2.images-amazon.com/images/G/01/imdb/plugins/rating/js/rating.min.js";stags.parentNode.insertBefore(js,stags);})(document,'script','imdb-rating-api');</script></p><p style="margin-left: 30px;"><span style="color: #808080;"><span style="font-family: 'book antiqua', palatino; font-size: 10pt;">Um ex-mercenário conhecido por encontrar crianças desaparecidas, é contratado por um lutador de artes marciais mistas para resgatar sua filha que foi raptada.</span></span></p><p style="text-align: center;"><span style="color: #808080;"><span style="font-family: 'book antiqua', palatino; font-size: 10pt;"><span style="color: #00ff00;"><strong><span style="font-family: 'courier new', courier; font-size: 12pt;"><a href="http://www.filefactory.com/file/jz16g69a7h5/n/A_View_to_a_Kill_Theatrical_Trailer_mp4" title="6 Bullets" target="_blank" data-lightbox="6 Bullets"><span style="color: #000080;">Ver Filme&nbsp;</span><img src="images/imagens/blog/play.png" width="20" height="20" alt="play" style="vertical-align: middle;" /></a></span></strong></span><span style="font-size: 12pt;">|</span>&nbsp;<strong><span style="font-family: 'courier new', courier; font-size: 12pt; color: #000080;">Download&nbsp;</span></strong><img src="images/imagens/blog/download.png" width="20" height="20" alt="download" style="vertical-align: middle;" /><span style="font-size: 12pt;">|</span>&nbsp;<span style="color: #000080;"><strong><span style="font-family: 'courier new', courier; font-size: 12pt;"><a href="index.php/filmes-6-bullets"><span style="color: #000080;">Mais Informações&nbsp;</span><img src="images/imagens/blog/info.png" width="20" height="20" alt="info" style="vertical-align: middle;" /></a></span></strong></span></span></span></p></td></tr></tbody></table></p>
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---> CÓDIGO HTML COM JAVASCRIPT ORIGINAL
+
+ {
+	"2616ded9-e88b-4b77-a92c-2c4c18bb995f":  {
+		"0":  {
+			"value": ""
+		}
+	},
+	"fc5a6788-ffae-41d9-a812-3530331fef64":  {
+		"item":  {
+
+		}
+	},
+	"08795744-c2dc-4a68-8252-4e21c4c4c774":  {
+		"0":  {
+			"value": ""
+		}
+	},
+	"2e3c9e69-1f9e-4647-8d13-4e88094d2790":  {
+		"0":  {
+			"value": "<p>\r\n    <table border=\"0\">\r\n        <tbody>\r\n            <tr>\r\n                <td style=\"width: 150px;\"><a data-lightbox=\"on;transitionIn:elastic;transitionOut:elastic;\" data-spotlight=\"on\" href=\"images\/imagens\/covers\/filmes\/capa-zoom\/6-bullets.jpg\"><img src=\"images\/imagens\/covers\/filmes\/capa-blog\/6-bullets.jpg\" width=\"150\" height=\"184\" alt=\"6 Bullets\" \/><\/a><\/td>\r\n                <td>\r\n                    <p style=\"text-align: center;\"><strong><span style=\"font-family: 'courier new', courier; font-size: 12pt; color: #000080;\"><a href=\"index.php\/filmes-6-bullets\"><span style=\"color: #000080;\">\"6 Bullets\"<\/span><\/a> | <a href=\"index.php\/filmes-accao\"><span style=\"color: #000080;\">Acção<\/span><\/a> | <\/span><span style=\"color: #000080;\"><span style=\"font-family: 'courier new', courier; font-size: 12pt;\"><a href=\"index.php\/filmes-2012\"><span style=\"color: #000080;\">2012<\/span><\/a><\/span><\/span><\/strong><\/p>\r\n                    <p style=\"margin-left: 30px;\"><span style=\"color: #808080;\"><span style=\"font-family: 'book antiqua', palatino; font-size: 10pt;\">Realizador: Ernie Barbarash<\/span><\/span><\/p>\r\n                    <p style=\"margin-left: 30px;\"><span style=\"color: #808080;\"><span style=\"font-family: 'book antiqua', palatino; font-size: 10pt;\">Actores Principais: Jean-Claude Van Damme, Joe Flanigan, Anna-Louise Plowman<\/span><\/span><\/p>\r\n                    <p style=\"margin-left: 30px;\"><span class=\"imdbRatingPlugin\" data-user=\"ur36838024\" data-title=\"tt1975249\" data-style=\"t1\">\r\n<a href=\"http:\/\/www.imdb.com\/title\/tt1975249\/?ref_=plg_rt_1\">\r\n<img src=\"http:\/\/g-ecx.images-amazon.com\/images\/G\/01\/imdb\/plugins\/rating\/images\/imdb_46x22.png\" alt=\"6 Bullets (2012) on IMDb\" \/>\r\n<\/a><\/span><script>\r\n(function(d,s,id){var js,stags=d.getElementsByTagName(s)[0];\r\nif(d.getElementById(id)){return;}js=d.createElement(s);js.id=id;\r\njs.src=\"http:\/\/g-ec2.images-amazon.com\/images\/G\/01\/imdb\/plugins\/rating\/js\/rating.min.js\";\r\nstags.parentNode.insertBefore(js,stags);})(document,'script','imdb-rating-api');\r\n<\/script>\r\n<\/p>\r\n                    <p style=\"margin-left: 30px;\"><span style=\"color: #808080;\"><span style=\"font-family: 'book antiqua', palatino; font-size: 10pt;\">Um ex-mercen\u00e1rio conhecido por encontrar crian\u00e7as desaparecidas, \u00e9 contratado por um lutador de artes marciais mistas para resgatar sua filha que foi raptada.<\/span><\/span><\/p>\r\n                    <p style=\"text-align: center;\"><span style=\"color: #808080;\"><span style=\"font-family: 'book antiqua', palatino; font-size: 10pt;\"><span style=\"color: #00ff00;\"><strong><span style=\"font-family: 'courier new', courier; font-size: 12pt;\"><a href=\"http:\/\/www.filefactory.com\/file\/jz16g69a7h5\/n\/A_View_to_a_Kill_Theatrical_Trailer_mp4\" title=\"6 Bullets\" target=\"_blank\" data-lightbox=\"6 Bullets\"><span style=\"color: #000080;\">Ver Filme&nbsp;<\/span><img src=\"images\/imagens\/blog\/play.png\" width=\"20\" height=\"20\" alt=\"play\" style=\"vertical-align: middle;\" \/><\/a><\/span><\/strong><\/span><span style=\"font-size: 12pt;\">|<\/span>&nbsp;<strong><span style=\"font-family: 'courier new', courier; font-size: 12pt; color: #000080;\">Download&nbsp;<\/span><\/strong><img src=\"images\/imagens\/blog\/download.png\" width=\"20\" height=\"20\" alt=\"download\" style=\"vertical-align: middle;\" \/><span style=\"font-size: 12pt;\">|<\/span>&nbsp;<span style=\"color: #000080;\"><strong><span style=\"font-family: 'courier new', courier; font-size: 12pt;\"><a href=\"index.php\/filmes-6-bullets\"><span style=\"color: #000080;\">Mais Informa\u00e7\u00f5es&nbsp;<\/span><img src=\"images\/imagens\/blog\/info.png\" width=\"20\" height=\"20\" alt=\"info\" style=\"vertical-align: middle;\" \/><\/a><\/span><\/strong><\/span><\/span><\/span><\/p>\r\n                <\/td>\r\n            <\/tr>\r\n        <\/tbody>\r\n    <\/table>\r\n<\/p>"
+		}
+	},
+	"cdce6654-4e01-4a7f-9ed6-0407709d904c":  {
+		"file": "",
+		"title": "",
+		"link": "",
+		"target": "0",
+		"rel": "",
+		"lightbox_image": "",
+		"spotlight_effect": "",
+		"caption": ""
+	},
+	"c26feca6-b2d4-47eb-a74d-b067aaae5b90":  {
+		"file": "",
+		"title": "",
+		"link": "",
+		"target": "0",
+		"rel": "",
+		"lightbox_image": "",
+		"spotlight_effect": "",
+		"caption": ""
+	},
+	"0bee21e2-8f88-4f5b-83af-686cd1c7ef4b":  {
+		"url": "",
+		"width": "",
+		"height": "",
+		"autoplay": "0"
+	},
+	"65b7851d-199f-4ac6-95a7-409ad1bca488":  {
+		"item":  {
+
+		}
+	},
+	"fdcbebaa-e61a-462d-963e-aff74ff95499":  {
+		"0":  {
+			"value": "",
+			"text": "",
+			"target": "0",
+			"custom_title": "",
+			"rel": ""
+		}
+	},
+	"d857d939-47e9-4303-8f37-93b0cecace54":  {
+		"value": "1"
+	}
+}
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
